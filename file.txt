@@ -1,3 +1,4 @@
 Commit 1
 Develop commit 1
 Feature commit 1
+Cloned commit
